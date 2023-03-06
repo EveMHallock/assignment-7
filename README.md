@@ -6,4 +6,4 @@ Baillargeon and Rivest state that "The package Rcapture covers the basic statist
 
 The biggest limitation of the package is that it does not include deaths that could occur with trapping or other unknown reasons. I do think it is still very useful to summarize capture/recapture data. It is easy to visualize capture occasions, numbers of individuals during capture periods, individual animals' records, etc. You can fit parameters, compare models, make AIC tables, and calculate confidence intervals smoothly. I would recommend that someone check this package out, although mark and unmark may also be more useful depending on the distribution or format of the data. 
 
-3. Please do not post my review.
+
